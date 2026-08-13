@@ -4,4 +4,4 @@
 
 Write your name on line 6, save it, and then head back to GitHub Desktop.
 
-![RP2040 Zero Overwiev] (docs/screenshots/rp2040zero_overview.png)
+![RP2040 Zero Overwiev](docs/screenshots/rp2040zero_overview.png)
